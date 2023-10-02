@@ -1,3 +1,6 @@
+//programmer: Lianne Deldacan
+//language: Assembly (machine) language
+
 .model small
 .stack
 .code
